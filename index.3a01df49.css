@@ -1,0 +1,20 @@
+body {
+  background-color: #04115a;
+}
+
+div {
+  border: 5px solid gray;
+  margin: 10px;
+  padding: 20px;
+}
+
+p {
+  color: gray;
+  white-space: pre-line;
+  font-size: 20px;
+}
+
+#en, #attempt-display, #corrected-attempt-display, #corrections-display {
+  color: #fff;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
